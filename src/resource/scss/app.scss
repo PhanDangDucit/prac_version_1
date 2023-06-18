@@ -1,0 +1,14 @@
+@import 'variable';
+.body {
+    background-color: #ccc;
+}
+div {
+    background-color: #fff;
+}
+h1 {
+    color: $color-h1;
+    font-size: 16px;
+}
+h2 {
+    color: $color-h2;
+}
